@@ -142,6 +142,7 @@ body {
     position: relative;
     z-index: 2;
     transition: all 0.5s ease;
+    text-align: center;
 }
 
 .logo img {
@@ -152,6 +153,7 @@ body {
     animation: fadeInScale 1s ease-out;
     filter: drop-shadow(0 0 40px rgba(139, 63, 232, 0.6));
     transition: all 0.3s ease;
+    display: inline-block;
 }
 
 .hero-content {

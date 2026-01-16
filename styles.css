@@ -258,7 +258,7 @@ body {
 /* Services Section */
 #services {
     padding: 8rem 0;
-    background: var(--black);
+    background: var(--dark-gray);
 }
 
 .section-title {
@@ -356,7 +356,7 @@ body {
 /* Portfolio Section */
 #portfolio {
     padding: 8rem 0;
-    background: var(--dark-gray);
+    background: var(--black);
 }
 
 .portfolio-intro {
